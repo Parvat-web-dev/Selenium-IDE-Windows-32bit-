@@ -1,27 +1,27 @@
 <h2 align='center'><strong>Requirements</strong></h2>
 <h5>
 <ul>
-  <li>Python 3
+  <li><h3>Python 3</h3>
     <p>
     This IDE requires <a href = 'https://www.python.org/download'>Python 3</a> on you system to run because this<br>
     IDE is completerly created using Python.
     </p>
   </li>
-  <li>Selenium
+  <li><h3>Selenium</h3>
     <p>
       This IDE is based on <a href='https://pypi.org/project/selenium/'>Selenium</a>. You can install it by using the command<br>
       <code>pip install selenium</code><br>
       Or you can get it from <a href = 'https://www.selenium.dev/'>https://www.selenium.dev/</a>.
     </p>
   </li>
-  <li>Tkinter
+  <li><h3>Tkinter</h3>
     <p>
       The window for this IDE is created using Tkinter. So you need to have Tkinter on you system.<br>
       You can use :<br>
       <code>pip install tkinter</code>
     </p>
   </li>
-  <li>Web Driver
+  <li><h3>Web Driver</h3>
     <p>
       You will need a webdriver to make the IDE work. We provide you the webdrivers also, but it will work only on windows.<br>
       So if you you have anyother OS, you can download from any of these sites.<br>
