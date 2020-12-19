@@ -23,13 +23,25 @@
   </li>
   <li>Web Driver
     <p>
-      You will need a webdriver to make the IDE work. We provide you the webdeiver also, but if you wish<br>
+      You will need a webdriver to make the IDE work. We provide you the webdrivers also, but it will work only on windows.<br>
+      So if you you have anyother OS, you can download from any of these sites.<br>
+      Note the driver should be placed in the same directory where the IDE.py is placed.<br>
       You can download those from the official sites:
       <ul>
         <li><a href = 'https://chromedriver.chromium.org/downloads'>Chrome</a> -The driver for Chrome</li>
         <li><a href = 'https://github.com/mozilla/geckodriver/releases'>Geckodriver GitHub</a> -The driver for Firefox</li>
         <li><a href = 'https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/'>Edge Driver Microsoft</a> -The driver for Microsoft Edge</li>
         <li><a href = 'https://github.com/operasoftware/operachromiumdriver/releases'>Opera GitHub</a> -The dribver for Opera</li>
+      </ul>
+    </p>
+  </li>
+  <li>Knowledge of X-path
+    <p>
+      For locating an element to carry the operation, we use X-path, which we think is the best way<br>
+      for locating the element perfectly. You can read the <a href='https://selenium-python.readthedocs.io/locating-elements.html#locating-by-xpath'>Docs of X-path from the official Selenium</a> site.
+      <ul>Pros:
+        <li>Easy to find the X-path</li>
+        <li>Is unique for every element</li>
       </ul>
     </p>
   </li>
