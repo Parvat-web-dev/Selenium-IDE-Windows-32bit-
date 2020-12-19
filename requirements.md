@@ -7,6 +7,7 @@
     IDE is completerly created using Python.
     </p>
   </li>
+  <hr>
   <li><h3>Selenium</h3>
     <p>
       This IDE is based on <a href='https://pypi.org/project/selenium/'>Selenium</a>. You can install it by using the command<br>
@@ -14,6 +15,7 @@
       Or you can get it from <a href = 'https://www.selenium.dev/'>https://www.selenium.dev/</a>.
     </p>
   </li>
+  <hr>
   <li><h3>Tkinter</h3>
     <p>
       The window for this IDE is created using Tkinter. So you need to have Tkinter on you system.<br>
@@ -21,6 +23,7 @@
       <code>pip install tkinter</code>
     </p>
   </li>
+  <hr>
   <li><h3>Web Driver</h3>
     <p>
       You will need a webdriver to make the IDE work. We provide you the webdrivers also, but it will work only on windows.<br>
@@ -35,6 +38,7 @@
       </ul>
     </p>
   </li>
+  <hr>
   <li>Knowledge of X-path
     <p>
       For locating an element to carry the operation, we use X-path, which we think is the best way<br>
@@ -45,5 +49,6 @@
       </ul>
     </p>
   </li>
+  <hr>
 </ul>
 </h5>
