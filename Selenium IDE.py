@@ -4,7 +4,7 @@ import webbrowser
 import function as IDE
 
 '''
-Blue Print:
+Blue Print :
 
     -A process tree:
                                 Main Window
