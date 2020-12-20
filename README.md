@@ -46,7 +46,7 @@
   <hr>
 </div>
 <h6 text-size='10px'>More features will be added on request!</h6>
-<h3>For Errors, reply at : <a href=''></a></h3>
+<h3>For Errors, reply at : <a href='mailto:replyerrors.parvat@gmail.com'>replyerrors.parvat@gmail.com</a></h3>
 <h6>
   <h4>Credits :</h4>
   <em>Parvat.R</em>
