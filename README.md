@@ -37,7 +37,7 @@
   </h6>
 </div>
 <div>
-  <h4>To know how this IDE works, see <a href = ''https://github.com/Parvat-web-dev/Selenium-IDE-Windows-32bit-/blob/main/How_it_works.md>How_it_works.md</a></h4>
+  <h4>To know how this IDE works, see <a href = 'https://github.com/Parvat-web-dev/Selenium-IDE-Windows-32bit-/blob/main/How_it_works.md'>How_it_works.md</a></h4>
 </div>
 <div align='center'>
   <hr>
