@@ -36,12 +36,12 @@
 
 <div>
   <h4>How to use this IDE?</h4>
-  <h6>Download the source code. Then make sure that you have installed all the requirements.<br>
-    Then place all the files in the same folder. Note*:<em>Do not edit any of the files.</em><br>
-    Then launch the main.py file, because that is the Main File. When you run that you will see<br>
+  <h6>Download the source code. Then make sure that you have installed all the requirements.
+    Then place all the files in the same folder. Note*:<em>Do not edit any of the files.</em>
+    Then launch the main.py file, because that is the Main File. When you run that you will see
     a Tkinter Window launched. And thats all, you are done!<br>
-    If you want the code till where you have used the IDE, then you can see a file names: save.py,<br>
-    open the file with any text editor, copy all the code and paste it in a python file. If you,<br>
+    If you want the code till where you have used the IDE, then you can see a file named: save.py,
+    open the file with any text editor, copy all the code and paste it in a python file. If you
     do so, and run the file you can see the same operation carried on.
   </h6>
 </div>
